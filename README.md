@@ -7,7 +7,7 @@
 I am a passionate 2nd-year **Computer Science & Engineering Student** at **MCKV Institute of Engineering** with a current **YGPA of 9.79**. I specialize in building full-stack applications and bridging the gap between **Software** and **Hardware (IoT)**.
 
 * 🔭 **Working on:** [CivicFix](https://github.com/mukherjeesuchetana514-maker/CivicFix) (Hyper-local Grievance Platform) & **RAO** (AI Research Tool).
-* 🌱 **Exploring:** Advanced **Data Structures & Algorithms**, **Machine Learning**, and **Google Cloud (Vertex AI)**.
+* 🌱 **Exploring:** **Data Structures & Algorithms**, **Web Development**, and **Google Cloud (Vertex AI)**.
 * 🏆 **Key Achievements:**
     * **Winner**, Idea Fusion 2025 (IoT Model Presentation).
     * **Participant**, Smart India Hackathon (SIH) 2025.
