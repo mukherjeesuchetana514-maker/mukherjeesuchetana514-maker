@@ -41,10 +41,10 @@ I am a passionate 2nd-year **Computer Science & Engineering Student** at **MCKV 
 
 ### 📊 **GitHub Stats**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mukherjeesuchetana514-maker&show_icons=true&theme=radical)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukherjeesuchetana514-maker&layout=compact&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukherjeesuchetana514-maker&show_icons=true&theme=radical" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukherjeesuchetana514-maker&layout=compact&theme=radical" height="165" alt="top languages" />
+</div>
 ---
 
 ### 🌐 **Connect with Me**
